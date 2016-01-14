@@ -1,5 +1,5 @@
-# LatexCheatsheetTemplate
-Latex template for summaries and cheatsheets
+# LaTeXCheatsheetTemplate
+LaTeX template for summaries and cheatsheets
 
 Simply write stuff in the content.tex file, compile the summary.tex file to generate a summary, compile the cheatsheet.tex file to generate the cheatsheet.
 
